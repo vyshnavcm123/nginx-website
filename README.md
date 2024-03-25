@@ -1,1 +1,1 @@
-# Sample readme file for website repository
+# Sample README file for Jenkins pipeline
